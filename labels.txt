@@ -1,0 +1,12 @@
+Earthquake Damage
+Infrastructure Damage
+Urban Fire
+Wildfire
+Human Damage
+Drought
+Landslide
+Non Damage Human
+Non Damage Buildings
+Non Damage Forest
+Non Damage Sea
+Water Disaster
